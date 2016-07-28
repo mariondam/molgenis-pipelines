@@ -1,5 +1,5 @@
 \########################################################################
-## General parameters for SLURM settings and cluster directory paths  2
+## General parameters for SLURM settings and cluster directory paths
 #
 queue,medium
 defaultInterpreter,#!/bin/bash
